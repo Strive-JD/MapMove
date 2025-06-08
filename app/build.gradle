@@ -24,12 +24,14 @@ android {
         ndk { abiFilters "armeabi", "armeabi-v7a", "arm64-v8a", "x86" }
     }
 
-    signingConfigs {// 自动化打包配置
-        release {// 线上环境
-            keyAlias 'huolala'
-            keyPassword 'huolala123'
+    signingConfigs {
+        // 自动化打包配置
+        // 线上环境
+        release {
+            keyAlias 'mapmove'
+            keyPassword 'y1012784684'
             storeFile file('key')
-            storePassword 'huolala123'
+            storePassword 'y1012784684'
         }
     }
 
@@ -68,4 +70,5 @@ dependencies {
     implementation 'com.baidu.lbsyun:BaiduMapSDK_Map:7.6.1'
     implementation 'com.baidu.lbsyun:BaiduMapSDK_Search:7.6.1'
     implementation 'com.github.tiann:FreeReflection:3.1.0'
+    testImplementation 'org.testng:testng:6.9.6'
 }
