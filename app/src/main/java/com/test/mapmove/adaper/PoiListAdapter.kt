@@ -11,7 +11,7 @@ import com.test.mapmove.R
 import kotlinx.android.synthetic.main.item_poiinfo.view.*
 
 /**
- * @author jiayu.liu
+ * @author yujiangdong
  */
 class PoiListAdapter :
     ListAdapter<SuggestionResult.SuggestionInfo, PoiListAdapter.ViewHolder>(object :

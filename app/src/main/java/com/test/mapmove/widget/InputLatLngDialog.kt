@@ -14,7 +14,7 @@ import com.test.mapmove.R
 import com.test.mapmove.databinding.DialogInputLatlngBinding
 
 /**
- * @author jiayu.liu
+ * @author yujiangdong
  *
  */
 class InputLatLngDialog(

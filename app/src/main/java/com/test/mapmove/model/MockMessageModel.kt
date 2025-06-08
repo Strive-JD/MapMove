@@ -18,7 +18,7 @@ annotation class NaviType {
 }
 
 /**
- * @author jiayu.liu
+ * @author yujiangdong
  */
 data class MockMessageModel(
     var locationModel: PoiInfoModel? = null,

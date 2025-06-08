@@ -12,7 +12,7 @@ import com.test.mapmove.databinding.ItemNaviPoiCardBinding
 import com.test.mapmove.model.PoiInfoModel
 
 /**
- * @author jiayu.liu
+ * @author yujiangdong
  */
 class MultiplePoiAdapter : RecyclerView.Adapter<MultiplePoiAdapter.ViewHolder>() {
     var list: MutableList<PoiInfoModel> = arrayListOf()

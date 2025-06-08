@@ -8,7 +8,7 @@ import com.blankj.utilcode.util.ConvertUtils
 
 /**
  * 横向recycleView分割线LinearLayoutManager
- * @author jiayu.liu
+ * @author yujiangdong
  */
 class HorizontalItemDecoration constructor(
     context: Context,

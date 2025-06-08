@@ -19,7 +19,7 @@ import java.io.File
 
 
 /**
- * @author jiayu.liu
+ * @author yujiangdong
  */
 class NaviPathDialog(context: Context) : Dialog(context),
     View.OnClickListener {

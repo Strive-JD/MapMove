@@ -9,7 +9,7 @@ import android.provider.Settings
 import java.lang.Exception
 
 /**
- * @author jiayu.liu
+ * @author yujiangdong
  */
 object WarnDialogUtils {
 

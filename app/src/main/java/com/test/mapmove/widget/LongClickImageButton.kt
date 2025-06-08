@@ -17,7 +17,7 @@ import com.blankj.utilcode.util.Utils
 import java.lang.ref.WeakReference
 
 /**
- * @author jiayu.liu
+ * @author yujiangdong
  */
 class LongClickImageButton : AppCompatImageButton {
     var listener: LongClickListener? = null

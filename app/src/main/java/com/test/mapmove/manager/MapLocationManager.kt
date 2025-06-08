@@ -16,7 +16,7 @@ import com.baidu.mapapi.model.LatLng
 
 /**
  * 定位小蓝点显示控制类
- * @author jiayu.liu
+ * @author yujiangdong
  */
 
 enum class FollowMode {

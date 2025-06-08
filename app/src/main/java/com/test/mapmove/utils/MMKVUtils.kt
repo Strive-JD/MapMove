@@ -11,7 +11,7 @@ import java.util.concurrent.CopyOnWriteArrayList
 
 
 /**
- * @author jiayu.liu
+ * @author yujiangdong
  */
 object MMKVUtils {
     private var defaultMMKV: MMKV = MMKV.defaultMMKV()

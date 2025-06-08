@@ -22,7 +22,7 @@ import com.test.mapmove.utils.MMKVUtils
 import com.test.mapmove.utils.Utils
 
 /**
- * @author jiayu.liu
+ * @author yujiangdong
  *
  *  Intent intentBroadcast = new Intent();
  *  intentBroadcast.setAction("com.test.mapmove.navi");

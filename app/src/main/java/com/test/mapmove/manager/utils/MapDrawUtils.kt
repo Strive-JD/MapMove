@@ -14,7 +14,7 @@ import com.baidu.mapapi.model.LatLngBounds
 
 
 /**
- * @author jiayu.liu
+ * @author yujiangdong
  */
 object MapDrawUtils {
 

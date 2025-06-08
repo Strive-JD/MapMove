@@ -14,7 +14,7 @@ import com.test.mapmove.databinding.DialogPointTypeBinding
 import com.test.mapmove.utils.LocationUtils
 
 /**
- * @author jiayu.liu
+ * @author yujiangdong
  */
 class PointTypeDialog(context: Context) : Dialog(context) {
     private var binding: DialogPointTypeBinding? = null

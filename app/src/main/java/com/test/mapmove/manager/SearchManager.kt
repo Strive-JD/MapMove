@@ -15,7 +15,7 @@ import com.baidu.mapapi.search.route.WalkingRouteResult
 import com.blankj.utilcode.util.ToastUtils
 
 /**
- * @author jiayu.liu
+ * @author yujiangdong
  */
 class SearchManager private constructor() {
     private var mSearch: RoutePlanSearch = RoutePlanSearch.newInstance()

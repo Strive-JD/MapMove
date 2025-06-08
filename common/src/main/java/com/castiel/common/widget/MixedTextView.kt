@@ -12,7 +12,7 @@ import com.blankj.utilcode.util.LogUtils
  * 中英文混排自动换行
  * 需要设置maxWidth才能做到适配
  *
- * @author jiayu.liu
+ * @author yujiangdong
  */
 open class MixedTextView : AppCompatTextView {
     private var mEnabled = true

@@ -9,7 +9,7 @@ import com.blankj.utilcode.util.ConvertUtils
 
 /**
  * 竖向recycleView分割线LinearLayoutManager
- * @author jiayu.liu
+ * @author yujiangdong
  */
 class VerticalItemDecoration constructor(
     context: Context,

@@ -18,7 +18,7 @@ annotation class PoiInfoType {
 }
 
 /**
- * @author jiayu.liu
+ * @author yujiangdong
  */
 data class PoiInfoModel(
     var latLng: LatLng? = null,

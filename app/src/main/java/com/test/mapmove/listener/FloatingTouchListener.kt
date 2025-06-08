@@ -9,7 +9,7 @@ import kotlin.math.min
 
 /**
  * 悬浮窗touch监听处理
- * @author jiayu.liu
+ * @author yujiangdong
  */
 class FloatingTouchListener(
     private var windowManager: WindowManager,

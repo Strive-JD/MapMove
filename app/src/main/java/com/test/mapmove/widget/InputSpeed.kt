@@ -15,7 +15,7 @@ import com.test.mapmove.utils.MMKVUtils
 import kotlinx.android.synthetic.main.dialog_input_speed.view.*
 
 /**
- * @author jiayu.liu
+ * @author yujiangdong
  */
 class InputSpeed(context: Context) : Dialog(context) {
     init {

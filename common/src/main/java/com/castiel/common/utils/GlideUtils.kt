@@ -8,7 +8,7 @@ import com.bumptech.glide.request.RequestOptions
 
 
 /**
- * @author jiayu.liu
+ * @author yujiangdong
  */
 object GlideUtils {
 

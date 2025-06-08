@@ -12,7 +12,7 @@ import com.test.mapmove.R
 import com.test.mapmove.utils.MMKVUtils
 
 /**
- * @author jiayu.liu
+ * @author yujiangdong
  */
 class GuideView : ConstraintLayout {
     private var ivGuideArrows: View

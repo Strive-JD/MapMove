@@ -11,7 +11,7 @@ import com.test.mapmove.databinding.ItemTitleBinding
 import com.test.mapmove.model.ExpandModel
 
 /**
- * @author jiayu.liu
+ * @author yujiangdong
  */
 class ExpandAdapter :
     BaseListAdapter<ExpandModel, ExpandAdapter.ViewHolder>(object :

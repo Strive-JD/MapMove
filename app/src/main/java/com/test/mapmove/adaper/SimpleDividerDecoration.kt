@@ -13,7 +13,7 @@ import com.test.mapmove.R
 
 
 /**
- * @author jiayu.liu
+ * @author yujiangdong
  */
 class SimpleDividerDecoration(
     context: Context,

@@ -10,7 +10,7 @@ import android.widget.FrameLayout
 
 
 /**
- * @author jiayu.liu
+ * @author yujiangdong
  */
 class FloatingCardView : FrameLayout {
     constructor(context: Context) : super(context, null)

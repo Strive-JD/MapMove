@@ -15,7 +15,7 @@ import com.test.mapmove.utils.MMKVUtils
 import com.xw.repo.BubbleSeekBar
 
 /**
- * @author jiayu.liu
+ * @author yujiangdong
  */
 class InputLocationVibrationDialog(
     context: Context,

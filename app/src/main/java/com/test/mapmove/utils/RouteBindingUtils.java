@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  * 绑路优化工具
- * @author jiayu.liu
+ * @author yujiangdong
  */
 public class RouteBindingUtils {
 

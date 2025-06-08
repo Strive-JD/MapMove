@@ -1,7 +1,7 @@
 package com.test.mapmove.model
 
 /**
- * @author jiayu.liu
+ * @author yujiangdong
  */
 data class ExpandModel(
     /**

@@ -12,7 +12,7 @@ import com.test.mapmove.R
 import com.test.mapmove.databinding.DialogHintBinding
 
 /**
- * @author jiayu.liu
+ * @author yujiangdong
  */
 class HintDialog(context: Context, title: String = "", msg: String = "") : Dialog(context) {
 

@@ -21,7 +21,7 @@ import java.util.Collections
 
 
 /**
- * @author jiayu.liu
+ * @author yujiangdong
  */
 @Suppress("UNREACHABLE_CODE")
 class MainAdapter(val headerAdapter: MultiplePoiAdapter) :

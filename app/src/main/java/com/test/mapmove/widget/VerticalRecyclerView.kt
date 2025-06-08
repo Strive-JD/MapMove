@@ -6,7 +6,7 @@ import android.view.MotionEvent
 import androidx.recyclerview.widget.RecyclerView
 
 /**
- * @author jiayu.liu
+ * @author yujiangdong
  */
 class VerticalRecyclerView : RecyclerView {
     constructor(context: Context) : super(context)

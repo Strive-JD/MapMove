@@ -21,7 +21,7 @@ import com.test.mapmove.model.PoiInfoModel
 import kotlinx.android.synthetic.main.dialog_select_navi_map.*
 
 /**
- * @author jiayu.liu
+ * @author yujiangdong
  */
 class MapSelectDialog(
     context: Context,

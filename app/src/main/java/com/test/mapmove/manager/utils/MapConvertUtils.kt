@@ -4,7 +4,7 @@ import com.baidu.mapapi.model.LatLng
 import com.baidu.mapapi.search.route.DrivingRouteLine
 
 /**
- * @author jiayu.liu
+ * @author yujiangdong
  */
 object MapConvertUtils {
     /**

@@ -24,7 +24,7 @@ import kotlinx.android.synthetic.main.activity_navi.*
 
 
 /**
- * @author jiayu.liu
+ * @author yujiangdong
  */
 class MockLocationActivity : BaseActivity<ActivityNaviBinding, BaseViewModel>(),
     View.OnClickListener {

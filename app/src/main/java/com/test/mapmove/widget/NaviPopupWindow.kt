@@ -18,7 +18,7 @@ import com.xw.repo.BubbleSeekBar
 
 
 /**
- * @author jiayu.liu
+ * @author yujiangdong
  */
 class NaviPopupWindow(context: Context) : PopupWindow(context) {
     private var tvSpeed: AppCompatTextView? = null

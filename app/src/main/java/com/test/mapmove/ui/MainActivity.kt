@@ -47,7 +47,7 @@ import kotlin.math.roundToInt
 
 
 /**
- * @author jiayu.liu
+ * @author yujiangdong
  */
 class MainActivity : BaseActivity<ActivityMainBinding, HomeViewModel>(), View.OnClickListener {
     private var topMarginOffset: Int = 0

@@ -39,7 +39,7 @@ import java.lang.ref.WeakReference
 
 
 /**
- * @author jiayu.liu
+ * @author yujiangdong
  */
 class PickMapPoiActivity : BaseActivity<ActivityPickBinding, BaseViewModel>(),
     View.OnClickListener {

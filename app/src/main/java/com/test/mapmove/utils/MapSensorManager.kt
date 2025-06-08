@@ -7,7 +7,7 @@ import android.hardware.SensorManager
 
 
 /**
- * @author jiayu.liu
+ * @author yujiangdong
  */
 class MapSensorManager(context: Context) {
     private var mSensorManager: SensorManager? = null

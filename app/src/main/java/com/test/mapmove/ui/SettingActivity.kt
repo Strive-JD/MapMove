@@ -14,7 +14,7 @@ import com.test.mapmove.utils.MMKVUtils
 import com.test.mapmove.widget.InputLocationVibrationDialog
 
 /**
- * @author jiayu.liu
+ * @author yujiangdong
  */
 class SettingActivity : BaseActivity<ActivitySettingBinding, BaseViewModel>() {
     private var mAdapter: SettingAdapter? = null

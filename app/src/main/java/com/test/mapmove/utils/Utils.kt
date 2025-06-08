@@ -20,7 +20,7 @@ import kotlin.collections.ArrayList
 
 
 /**
- * @author jiayu.liu
+ * @author yujiangdong
  */
 object Utils {
 

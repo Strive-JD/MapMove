@@ -7,7 +7,7 @@ import com.baidu.mapapi.model.LatLng;
 import java.util.Random;
 
 /**
- * @author jiayu.liu
+ * @author yujiangdong
  */
 public class CalculationLogLatDistance {
 

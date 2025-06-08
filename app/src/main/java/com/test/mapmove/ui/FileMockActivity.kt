@@ -25,7 +25,7 @@ import com.test.mapmove.widget.NaviPopupWindow
 import com.test.mapmove.widget.PointTypeDialog
 
 /**
- * @author jiayu.liu
+ * @author yujiangdong
  */
 class FileMockActivity : BaseActivity<ActivityFileBinding, BaseViewModel>(), View.OnClickListener {
     private var mPointType = LocationUtils.gcj02

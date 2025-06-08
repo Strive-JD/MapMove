@@ -10,7 +10,7 @@ import com.test.mapmove.databinding.ItemSettingBinding
 import com.test.mapmove.model.SettingMsgModel
 
 /**
- * @author jiayu.liu
+ * @author yujiangdong
  */
 class SettingAdapter : RecyclerView.Adapter<SettingAdapter.ViewHolder>() {
     private val list: MutableList<SettingMsgModel> = mutableListOf()

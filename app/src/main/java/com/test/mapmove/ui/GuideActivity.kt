@@ -23,7 +23,7 @@ import kotlinx.android.synthetic.main.activity_guide.*
 import java.lang.Exception
 
 /**
- * @author jiayu.liu
+ * @author yujiangdong
  */
 class GuideActivity : BaseActivity<ActivityGuideBinding, BaseViewModel>(), View.OnClickListener {
     companion object {

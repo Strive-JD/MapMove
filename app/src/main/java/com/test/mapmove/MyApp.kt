@@ -16,7 +16,7 @@ import java.lang.reflect.Field
 
 
 /**
- * @author jiayu.liu
+ * @author yujiangdong
  */
 class MyApp : BaseApp() {
     private lateinit var mMockReceiver: MockReceiver

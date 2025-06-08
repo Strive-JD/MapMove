@@ -16,7 +16,7 @@ import com.test.mapmove.model.ExpandModel
 import com.test.mapmove.widget.HintDialog
 
 /**
- * @author jiayu.liu
+ * @author yujiangdong
  */
 class ExpandActivity : BaseActivity<ActivityExpandBinding, BaseViewModel>() {
 

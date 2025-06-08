@@ -9,7 +9,7 @@ import com.test.mapmove.http.Api
 import com.test.mapmove.model.AppUpdateModel
 
 /**
- * @author jiayu.liu
+ * @author yujiangdong
  */
 class HomeViewModel : BaseViewModel() {
     private val _updateApp = MutableLiveData<AppUpdateModel>()

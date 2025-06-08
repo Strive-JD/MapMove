@@ -16,7 +16,7 @@ import com.blankj.utilcode.util.ConvertUtils;
  * 中英文混排自动换行描边 描边
  * 需要设置width或者maxWidth才能做到适配
  *
- * @author jiayu.liu
+ * @author yujiangdong
  */
 public class StrokeTextView extends MixedTextView {
     public TextView borderText;

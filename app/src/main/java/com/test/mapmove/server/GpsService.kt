@@ -23,7 +23,7 @@ import com.test.mapmove.utils.Utils
 import kotlin.random.Random
 
 /**
- * @author jiayu.liu
+ * @author yujiangdong
  */
 class GpsService : Service() {
     companion object {

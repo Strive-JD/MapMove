@@ -35,7 +35,7 @@ import okhttp3.internal.format
 import java.util.Locale
 
 /**
- * @author jiayu.liu
+ * @author yujiangdong
  */
 class FloatingViewManger private constructor() {
     private var windowManager: WindowManager =
